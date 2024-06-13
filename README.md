@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involves creating a product recommendation app using Python and Dash. The application can be applied to any set of data and it provides personalised recommendations based on customer interactions and segmentation.
+This project involves creating a product recommendation app using Python and Dash. The application can be applied to any large set of data and it provides personalised recommendations.
 
 ## Data Cleaning
 
